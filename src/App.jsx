@@ -1,5 +1,5 @@
 import React from "react";
-import Calculadora from "./assets/components/Calculadora";
+import Calculadora from "./components/Calculadora";
 
 function App() {
   return(
